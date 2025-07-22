@@ -3,24 +3,6 @@ layout: page
 title: "明大中国新生核心指南"
 permalink: /guidebook/
 ---
-<script src="https://sf-cdn.coze.com/obj/unpkg-va/flow-platform/chat-app-sdk/1.2.0-beta.6/libs/oversea/index.js"></script>
-<script>
-    new CozeWebSDK.WebChatClient({
-        config: {
-            bot_id: "7327810769347772421",
-        },
-        componentProps: {
-            title: "Coze",
-        },
-        auth: {
-            type: "token",
-            token: "pat_69ZW8kAOIBja8zJwJpJTjyytbkEY7919r1JcgEHzV2tPwR0SIbQk64ODyJ1Hf07C",
-            onRefreshToken: function () {
-                return "pat_69ZW8kAOIBja8zJwJpJTjyytbkEY7919r1JcgEHzV2tPwR0SIbQk64ODyJ1Hf07C";
-            },
-        },
-    });
-</script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4DT3EE5Z3Q"></script>
